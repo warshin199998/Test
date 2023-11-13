@@ -1,0 +1,5 @@
+Daten des buergeramts
+ Name des buergeramts	Jalal
+öffnungszeit des buergeramts:	 1.0 2.0
+Straße und Hausnummer des buergeramts:	3asdsad
+Dienstleistungen des buergeramts:	[Ljava.lang.String;@1c840ecd
