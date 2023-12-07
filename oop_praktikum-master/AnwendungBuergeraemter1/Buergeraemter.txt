@@ -1,0 +1,5 @@
+Daten des buergeramts
+ Name des buergeramts	1
+Öffnungszeit des buergeramts:	 2.0 3.0
+Straße und Hausnummer des buergeramts:	4
+Dienstleistungen des buergeramts:	5
